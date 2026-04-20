@@ -15,7 +15,7 @@ Como acadêmico de Engenharia, meu objetivo é desenvolver soluções robustas e
 
 ### 🔹 Semestre 01 (Em curso)
 * **Lógica de Programação e Algoritmos:** Desenvolvimento de algoritmos estruturados e resolução de problemas utilizando **Python**.
-* **Matemática Computacional:** Fundamentos lógicos e matemáticos para computação de alto desempenho.
+* **Matemática Elementar:** Estudo de conjuntos numéricos, funções e logaritmos, estabelecendo a base analítica necessária para o cálculo de engenharia.
 * **O Engenheiro de Computação e a Profissão:** Estudo das normas técnicas, ética e impacto das tecnologias de ponta.
 
 ### 🔭 Roadmap Técnico (Competências em Desenvolvimento)
