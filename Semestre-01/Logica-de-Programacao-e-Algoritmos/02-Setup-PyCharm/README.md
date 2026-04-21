@@ -6,7 +6,7 @@ Nesta seção, documento a transição do ambiente de nuvem para o desenvolvimen
 - Execução do primeiro script estruturado em ambiente local.
 - Versionamento de código via Git para integração com o repositório remoto.
 
-*In this section, I document the transition from cloud environment to local development. The main focus is the configuration of the PyCharm IDE and proper integration with the Python interpreter, ensuring a professional and organized workflow.*
+*In this section, I document the transition from cloud environment to local development. The main focus is the configuration of the **PyCharm** IDE and proper integration with the Python interpreter, ensuring a professional and organized workflow.*
 **Configuration steps:**
 - Python interpreter installation and integration (v3.14).
 - Virtual Environment (venv) setup for dependency isolation.
