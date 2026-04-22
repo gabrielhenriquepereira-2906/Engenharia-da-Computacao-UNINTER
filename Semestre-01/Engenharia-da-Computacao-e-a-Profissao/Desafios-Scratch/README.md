@@ -1,22 +1,15 @@
 # Engenharia da Computação e a Profissão - Práticas com Scratch
 
-Este diretório armazena as atividades práticas desenvolvidas com a ferramenta Scratch. 
+Este diretório armazena as atividades práticas desenvolvidas com a ferramenta Scratch.
 
-## Objetivo
-Validar conceitos fundamentais de algoritmos, como:
-* Eventos e Gatilhos.
-* Estruturas de Repetição (Loops).
-* Condicionais (If/Else).
-* Variáveis e Operadores Lógicos.
+## Objetivo / Objective
+Validar conceitos fundamentais de algoritmos, como eventos, loops, condicionais e lógica de estados. 
+*(To validate fundamental algorithm concepts, such as events, loops, conditionals, and state logic.)*
 
 ---
-# Computer Engineering and the Profession - Scratch Practices
 
-This directory stores practical activities developed using Scratch.
+## Exercício 01: Saída de Dados e Mudança de Estado
+* **Descrição:** Implementação de um fluxo básico iniciado por evento de gatilho. O algoritmo realiza o output de texto e altera a propriedade visual (fantasia) do ator.
+* **Conceitos:** Event-driven programming, Delays e State Switching.
 
-## Objective
-To validate fundamental algorithm concepts, such as:
-* Events and Triggers.
-* Repetition Structures (Loops).
-* Conditionals (If/Else).
-* Variables and Logical Operators.
+![Código Exercício 01](./01-hello-world-print.png)
