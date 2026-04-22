@@ -1,4 +1,4 @@
-# Algoritmos Sequenciais e Comandos de E/S 🚀
+# Algoritmos Sequenciais e Comandos de E/S 
 
 Este módulo foca nos fundamentos da manipulação de dados em Python, cobrindo desde a sintaxe básica até a interação com o usuário.
 
