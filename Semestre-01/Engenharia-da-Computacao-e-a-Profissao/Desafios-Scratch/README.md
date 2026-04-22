@@ -12,4 +12,4 @@ Validar conceitos fundamentais de algoritmos, como eventos, loops, condicionais 
 * **Descrição:** Implementação de um fluxo básico iniciado por evento de gatilho. O algoritmo realiza o output de texto e altera a propriedade visual (fantasia) do ator.
 * **Conceitos:** Event-driven programming, Delays e State Switching.
 
-![Código Exercício 01](./blocos-scratch-exercicio-1.png)
+![Código Exercício 01](./Blocos%20Scratch%20Exercicio%201.png)
