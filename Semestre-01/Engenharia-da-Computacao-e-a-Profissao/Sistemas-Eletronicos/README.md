@@ -68,4 +68,4 @@ Utilizando a ferramenta **Split/Grapher**, foi possível observar a transição 
 Diferente da corrente contínua (DC), o sinal de clock permite a sincronização de tarefas em sistemas computacionais. A prática demonstrou como instrumentos de medição de tempo são essenciais para analisar sinais que variam periodicamente.
 
 ---
-[Link para o projeto no Multisim Live (Prática 03)](COLE_O_LINK_DO_SEU_TERCEIRO_PROJETO_AQUI)
+[Link para o projeto no Multisim Live (Prática 03)](https://www.multisim.com/content/QzyhmcM9BZfZv3ZYjWCuG7/pratica-03-analise-de-sinal-de-clock-e-ondas-quadradas/)
