@@ -52,4 +52,4 @@ Durante a simulação, foram realizados testes alterando o valor de R2 para obse
 A prática comprovou que em um circuito série, a corrente é inversamente proporcional à resistência total. Além disso, validou-se que a soma das quedas de tensão nos componentes passivos é igual à tensão total da fonte.
 
 ---
-[Link para o projeto no Multisim Live (Prática 02)](COLE_O_NOVO_LINK_AQUI)
+[Link para o projeto no Multisim Live (Prática 02)](https://www.multisim.com/content/99KeK9YzxqVsrFAEBNecEH/pratica-02-divisor-de-tensao-e-medicoes-em-serie/)
