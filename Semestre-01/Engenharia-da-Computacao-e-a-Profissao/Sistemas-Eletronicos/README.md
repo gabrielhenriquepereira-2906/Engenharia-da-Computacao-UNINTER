@@ -22,4 +22,4 @@ Ao fechar a chave S1, o circuito é completado, permitindo que a corrente flua d
 | ![Circuito Aberto](./exercicio-01-off.png) | ![Circuito Fechado](./exercicio-01-on.png) |
 
 ---
-[Link para o projeto no Multisim Live](COLE_AQUI_O_LINK_DO_SEU_PROJETO_SE_FOR_PUBLICO)
+[Link para o projeto no Multisim Live](https://www.multisim.com/content/RAH4vCgwjdgd74fX57FYQj/exercicio-01-acionamento-led/)
