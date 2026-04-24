@@ -10,12 +10,12 @@ O objetivo desta prática foi montar um circuito de malha simples para validar o
 ### Componentes Utilizados
 * **Fonte de Tensão (V1):** 5V (DC Voltage Source)
 * **Interruptor (S1):** Chave SPST (Single Pole Single Throw)
-* **Resistor (R1):** 1kΩ (Utilizado para limitar a corrente e proteger o LED)
+* **Resistor (R1):** 1kΩ
 * **LED:** Diodo emissor de luz vermelho
 * **Ground (Terra):** Referência de 0V indispensável para a simulação
 
 ### Resultados
-Ao fechar a chave S1, o circuito é completado, permitindo que a corrente flua da fonte através do resistor e do LED até o terra, resultando no acionamento luminoso.
+Ao fechar a chave S1, o circuito é completado, permitindo que a corrente flua da fonte através do resistor e do LED até o terra.
 
 | Circuito Aberto (OFF) | Circuito Fechado (ON) |
 | :---: | :---: |
@@ -29,27 +29,43 @@ Ao fechar a chave S1, o circuito é completado, permitindo que a corrente flua d
 ## Prática 02: Divisor de Tensão e Medição de Corrente
 
 ### Descrição
-Análise técnica de um circuito em série composto por dois resistores. O foco desta prática foi validar a **Lei de Ohm** e observar o fenômeno do **Divisor de Tensão**, monitorando como a variação da resistência impacta a corrente total e a queda de potencial nos componentes.
+Análise técnica de um circuito em série composto por dois resistores para validar a **Lei de Ohm** e observar o fenômeno do **Divisor de Tensão**.
 
 ### Componentes Utilizados
 * **Fonte de Tensão:** 5V DC
-* **Interruptor:** Chave SPST
-* **Resistores:** R1 (1kΩ) e R2 (Variável entre 500Ω e 2kΩ)
-* **Instrumentação:** Voltímetros (Ponteiras de Tensão) e Amperímetro (Ponteira de Corrente)
+* **Resistores:** R1 (1kΩ) e R2 (Variável: 500Ω a 2kΩ)
+* **Instrumentação:** Voltímetros e Amperímetro (Probes)
 
-### Análise e Resultados
-Durante a simulação, foram realizados testes alterando o valor de R2 para observar a dinâmica do circuito:
-
-1. **Configuração Base (R1=1kΩ, R2=1kΩ):** A tensão foi dividida igualmente (2.5V em cada) e a corrente estabilizou em 2.5mA.
-2. **Redução de Resistência (R2=500Ω):** Observou-se um aumento na corrente total, conforme a Lei de Ohm ($I = V/R$).
-3. **Aumento de Resistência (R2=2kΩ):** A corrente diminuiu e a queda de tensão sobre R2 aumentou proporcionalmente.
-
+### Análise de Resultados (Variação de R2)
 | Configuração Base (1kΩ) | Variação para 500Ω | Variação para 2kΩ |
 | :---: | :---: | :---: |
-| ![Base](./exercicio-02-base.png) | ![Baixa Resistência](./exercicio-02-variacao-baixo.png) | ![Alta Resistência](./exercicio-02-variacao-alto.png) |
-
-### Conclusão Técnica
-A prática comprovou que em um circuito série, a corrente é inversamente proporcional à resistência total. Além disso, validou-se que a soma das quedas de tensão nos componentes passivos é igual à tensão total da fonte.
+| ![Base](./exercicio-02-base.png) | ![Low Res](./exercicio-02-variacao-baixo.png) | ![High Res](./exercicio-02-variacao-alto.png) |
 
 ---
 [Link para o projeto no Multisim Live (Prática 02)](https://www.multisim.com/content/99KeK9YzxqVsrFAEBNecEH/pratica-02-divisor-de-tensao-e-medicoes-em-serie/)
+
+---
+
+## Prática 03: Sinal de Clock e Análise de Frequência
+
+### Descrição
+Introdução à eletrônica digital através da análise de um sinal de **Clock** (Onda Quadrada). O experimento foca na visualização do comportamento da tensão em função do tempo e no entendimento dos conceitos de frequência e período.
+
+### Conceitos Matemáticos
+A relação entre o tempo de um ciclo (Período - $T$) e a quantidade de ciclos por segundo (Frequência - $f$) é dada por:
+$$f = \frac{1}{T}$$
+Para o sinal de **1kHz** utilizado:
+$$T = \frac{1}{1000} = 0,001s \text{ (ou 1ms)}$$
+
+### Visualização no Grapher
+Utilizando a ferramenta **Split/Grapher**, foi possível observar a transição instantânea entre os níveis lógicos **0** (0V) e **1** (5V), característica fundamental dos sistemas digitais.
+
+| Esquemático do Circuito | Análise de Onda (Grapher) |
+| :---: | :---: |
+| ![Schematic](./exercicio-03-schematic.png) | ![Grapher](./exercicio-03-grapher.png) |
+
+### Conclusão Técnica
+Diferente da corrente contínua (DC), o sinal de clock permite a sincronização de tarefas em sistemas computacionais. A prática demonstrou como instrumentos de medição de tempo são essenciais para analisar sinais que variam periodicamente.
+
+---
+[Link para o projeto no Multisim Live (Prática 03)](COLE_O_LINK_DO_SEU_TERCEIRO_PROJETO_AQUI)
