@@ -1,20 +1,25 @@
-# Engenharia da Computação e a Profissão - Sistemas Eletrônicos
+# Sistemas Eletrônicos - Práticas de Simulação
 
-Este diretório compila as atividades práticas de simulação de hardware realizadas no **Multisim Live**. O foco é compreender o comportamento de circuitos elétricos e sinais digitais.
+Repositório destinado ao registro das atividades práticas de eletrônica utilizando o simulador **Multisim Live**.
 
-## Objetivo / Objective
-Analisar circuitos de corrente contínua (DC), validar a Lei de Ohm e observar sinais de clock em ambiente de simulação. *(To analyze DC circuits, validate Ohm's Law, and observe clock signals in a simulation environment.)*
+## Prática 01: Acionamento de LED com Chave SPST
 
-## Prática 01: Acionamento de LED e Grandezas Elétricas
-* **Descrição:** Montagem de um circuito para acender um LED, utilizando resistores limitadores de corrente para proteção do componente.
-* **Ferramenta:** Multisim Live.
-* **Conceitos Explorados:** * **Tensão (V):** Diferença de potencial aplicada.
-    * **Corrente (I):** Fluxo de elétrons pelo circuito.
-    * **Resistência (R):** Limitação da corrente para evitar danos ao hardware.
+### Descrição
+O objetivo desta prática foi montar um circuito de malha simples para validar o fluxo de corrente contínua e o funcionamento de componentes básicos: fonte, interruptor, resistor e LED.
 
-## Prática 02: Visualização de Sinal de Clock
-* **Descrição:** Utilização de instrumentos de medição (osciloscópio) para visualizar sinais de temporização fundamentais em sistemas computacionais.
-* **Conceitos Explorados:** Frequência, Período e Sincronismo.
+### Componentes Utilizados
+* **Fonte de Tensão (V1):** 5V (DC Voltage Source)
+* **Interruptor (S1):** Chave SPST (Single Pole Single Throw)
+* **Resistor (R1):** 1kΩ (Utilizado para limitar a corrente e proteger o LED)
+* **LED:** Diodo emissor de luz vermelho
+* **Ground (Terra):** Referência de 0V indispensável para a simulação
+
+### Resultados
+Ao fechar a chave S1, o circuito é completado, permitindo que a corrente flua da fonte através do resistor e do LED até o terra, resultando no acionamento luminoso.
+
+| Circuito Aberto (OFF) | Circuito Fechado (ON) |
+| :---: | :---: |
+| ![Circuito Aberto](./exercicio-01-off.png) | ![Circuito Fechado](./exercicio-01-on.png) |
 
 ---
-*Status: Em execução (Aula Prática 4)*
+[Link para o projeto no Multisim Live](COLE_AQUI_O_LINK_DO_SEU_PROJETO_SE_FOR_PUBLICO)
