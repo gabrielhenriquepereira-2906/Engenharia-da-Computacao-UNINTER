@@ -16,7 +16,7 @@ Cada subdiretório contém a documentação, capturas de tela e arquivos-fonte d
 
 1. **[Desafios-Scratch](./Desafios-Scratch):** Implementação de lógica condicional e loops. (Concluído)
 2. **[Desenvolvimento-Android](./Desenvolvimento-Android):** Apps práticos e interface de usuário. (Em espera - Hardware)
-3. **[Sistemas-Eletronicos](./Sistemas-Eletronicos):** Simulações de hardware e análise de sinais. (Em execução)
+3. **[Sistemas-Eletronicos](./Sistemas-Eletronicos):** Simulações de hardware e análise de sinais. (Concluído)
 4. **Automacao-Arduino:** Integração de firmware e componentes físicos. (Próxima fase)
 
 ---
