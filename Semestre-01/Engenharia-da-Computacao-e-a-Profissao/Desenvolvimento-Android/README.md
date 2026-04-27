@@ -9,7 +9,7 @@ Repositório dedicado ao estudo de desenvolvimento de software para dispositivos
 
 ## Projetos
 
-### 01."Hello World" (Gatilhos de Eventos)
+### 01. Hello World (Gatilhos de Eventos)
 Primeira implementação focada em entender o ciclo de vida de uma aplicação orientada a eventos.
 
 #### Especificações Técnicas
