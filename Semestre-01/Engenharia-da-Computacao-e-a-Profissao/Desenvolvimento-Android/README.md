@@ -21,7 +21,7 @@ Primeira implementação focada em entender o ciclo de vida de uma aplicação o
 #### Demonstração
 | Interface Inicial | Lógica (Blocos) | Resultado Final (Hardware) |
 | :--- | :--- | :--- |
-| ![Interface](HelloWorld/screenshots/interface_inicial.png) | ![Blocos](HelloWorld/blocks/logic.png) | ![Resultado](HelloWorld/screenshots/resultado_final.png) |
+| ![Interface](HelloWorld/interface_inicial.png) | ![Blocos](HelloWorld/blocks-logic.png) | ![Resultado](HelloWorld/resultado_final.png) |
 
 ---
 
