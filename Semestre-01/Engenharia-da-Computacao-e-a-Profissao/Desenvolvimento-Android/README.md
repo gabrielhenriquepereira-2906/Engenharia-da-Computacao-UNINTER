@@ -16,7 +16,7 @@ Primeira implementação focada em entender o ciclo de vida de uma aplicação o
 - **Lógica:** Programação em blocos (Blockly).
 - **Conceitos Aplicados:** - **Event Handling:** Captura de entrada do usuário via componente `Button`.
     - **DOM Manipulation (Mobile):** Alteração dinâmica de propriedades do componente `Label` em tempo de execução.
-    - **Estilização:** Ajuste de propriedades de fonte (Weight e Size) via painel de propriedades.
+    - **Configuração de Atributos de UI:** Ajuste de propriedades de fonte (Weight e Size) via painel de propriedades.
 
 #### Demonstração
 | Interface Inicial | Lógica (Blocos) | Resultado Final (Hardware) |
