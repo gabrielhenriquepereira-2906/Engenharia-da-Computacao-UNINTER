@@ -67,7 +67,7 @@ As an Engineering student, I aim to develop innovative and creative solutions fo
     - *Technical standards, ethics, and lab practice:*
     - [x] **Lab 01:** Hardware/software analysis and benchmarking.
     - [x] [**Lab 02**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desafios-Scratch): Logic and algorithms via Scratch.
-    - [ ] [**Lab 03**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desenvolvimento-Android): Android Mobile Development (MIT App Inventor).
+    - [x] [**Lab 03**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desenvolvimento-Android): Android Mobile Development (MIT App Inventor).
     - [x] [**Lab 04**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Sistemas-Eletronicos): Electronic circuit simulation and clock (Multisim Live).
     - [ ] **Lab 05:** Embedded systems and automation (Arduino).
 
