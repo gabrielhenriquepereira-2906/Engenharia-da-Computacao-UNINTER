@@ -32,7 +32,7 @@ Desenvolvimento de um sistema dinâmico utilizando conceitos de animação, temp
 #### Demonstração
 | Interface do Jogo | Lógica de Programação | Gameplay no Redmi |
 | :---: | :---: | :---: |
-| <img src="AcerteOAlvo/interface.png" width="400"> | <img src="AcerteOAlvo/logica_procedimentos.png" width="3000"> | <img src="AcerteOAlvo/gameplay.jpg" width="200"> |
+| <img src="AcerteOAlvo/interface.png" width="400"> | <img src="AcerteOAlvo/logica_eventos.png" width="800"> | <img src="AcerteOAlvo/gameplay.jpg" width="200"> |
 
 ---
 
