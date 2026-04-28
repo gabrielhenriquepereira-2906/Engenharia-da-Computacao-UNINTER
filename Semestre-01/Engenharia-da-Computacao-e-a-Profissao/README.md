@@ -19,4 +19,4 @@ Cada subdiretório contém a documentação, capturas de tela e arquivos-fonte d
 3. **[Sistemas-Eletronicos](./Sistemas-Eletronicos):** Simulações de hardware e análise de sinais. (Concluído)
 4. **[Automacao-Arduino](./Automacao-Arduino):** Integração de firmware e componentes físicos. (Concluído)
 ---
-*Status: Em progresso (1º Semestre - UNINTER)*
+*Status: Concluído.*
