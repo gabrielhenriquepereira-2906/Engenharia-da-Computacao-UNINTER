@@ -3,7 +3,7 @@
 Repositório dedicado ao estudo de desenvolvimento de software para dispositivos móveis, focando em lógica de programação, interface de usuário (UI) e integração com hardware real.
 
 > **Hardware de Validação:** Redmi Note 14
-> 
+
 > **Ambiente:** MIT App Inventor 2
 
 ---
