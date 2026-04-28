@@ -31,7 +31,7 @@ Como acadêmico de Engenharia, meu objetivo é desenvolver soluções inovadoras
     - [x] [**Lab 02**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desafios-Scratch): Lógica e algoritmos via Scratch.
     - [x] [**Lab 03**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desenvolvimento-Android): Desenvolvimento Mobile Android (MIT App Inventor).
     - [x] [**Lab 04**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Sistemas-Eletronicos): Simulação de circuitos e clock (Multisim Live).
-    - [x] [**Lab 05:**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Automacao-Arduino): Sistemas embarcados e automação (Arduino).
+    - [x] [**Lab 05**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Automacao-Arduino): Sistemas embarcados e automação (Arduino).
 
 #### Roadmap Técnico
 A grade curricular foi estruturada para suportar as seguintes áreas:
@@ -69,7 +69,7 @@ As an Engineering student, I aim to develop innovative and creative solutions fo
     - [x] [**Lab 02**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desafios-Scratch): Logic and algorithms via Scratch.
     - [x] [**Lab 03**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desenvolvimento-Android): Android Mobile Development (MIT App Inventor).
     - [x] [**Lab 04**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Sistemas-Eletronicos): Electronic circuit simulation and clock (Multisim Live).
-    - [x] [**Lab 05:**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Automacao-Arduino): Embedded systems and automation (Arduino).
+    - [x] [**Lab 05**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Automacao-Arduino): Embedded systems and automation (Arduino).
 
 #### Technical Roadmap
 The curriculum is designed to support the following areas:
