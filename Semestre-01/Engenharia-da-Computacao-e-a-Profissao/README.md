@@ -1,22 +1,40 @@
-# O Engenheiro de Computação e a Profissão 
+# O Engenheiro de Computação e a Profissão | The Computer Engineer and the Profession
 
-Este diretório compila as atividades práticas realizadas durante a disciplina introdutória do bacharelado. O foco é a exploração de ferramentas de desenvolvimento, lógica de programação e fundamentos de hardware.
+[Português](#português) | [English](#english)
 
-## Visão Geral
-O objetivo destas práticas é estabelecer uma base sólida sobre o ciclo de vida de desenvolvimento de hardware e software, desde a lógica visual até a simulação de circuitos eletrônicos.
-
-## Tecnologias e Ferramentas Exploradas
-* **Lógica Visual:** Scratch para prototipagem de algoritmos.
-* **Mobile Dev:** Implementação de aplicações Android.
-* **Simulação de Circuitos:** Multisim Live (Análise de tensão, corrente e sinais de clock).
-* **Sistemas Embarcados:** Prototipagem com Arduino e integração de sensores.
-
-## Estrutura de Atividades
-Cada subdiretório contém a documentação, capturas de tela e arquivos-fonte das práticas realizadas:
-
-1. **[Desafios-Scratch](./Desafios-Scratch):** Implementação de lógica condicional e loops. (Concluído)
-2. **[Desenvolvimento-Android](./Desenvolvimento-Android):** Apps práticos e interface de usuário. (Concluído)
-3. **[Sistemas-Eletronicos](./Sistemas-Eletronicos):** Simulações de hardware e análise de sinais. (Concluído)
-4. **[Automacao-Arduino](./Automacao-Arduino):** Integração de firmware e componentes físicos. (Concluído)
 ---
-*Status: Concluído.*
+
+<h2 id="português">Versão em Português</h2>
+
+Compilado de atividades práticas focadas em lógica de programação, desenvolvimento mobile e fundamentos de hardware. O objetivo é solidificar o entendimento sobre o ciclo de vida de sistemas computacionais.
+
+### Atividades Realizadas
+
+* **[Desafios-Scratch](./Desafios-Scratch)** ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+  * Lógica condicional e loops via programação visual.
+* **[Desenvolvimento-Android](./Desenvolvimento-Android)** ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+  * Interface de usuário e implementação de apps práticos.
+* **[Sistemas-Eletronicos](./Sistemas-Eletronicos)** ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+  * Simulação de circuitos no Multisim Live (Tensão, corrente e sinais de clock).
+* **[Automacao-Arduino](./Automacao-Arduino)** ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+  * Prototipagem de sistemas embarcados e integração de sensores.
+
+---
+
+<h2 id="english">English Version</h2>
+
+A compilation of practical activities focused on programming logic, mobile development, and hardware fundamentals. The goal is to solidify the understanding of the computer systems lifecycle.
+
+### Practical Activities
+
+* **[Scratch-Challenges](./Desafios-Scratch)** ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+  * Conditional logic and loops via visual programming.
+* **[Android-Development](./Desenvolvimento-Android)** ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+  * User interface and practical app implementation.
+* **[Electronic-Systems](./Sistemas-Eletronicos)** ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+  * Circuit simulation using Multisim Live (Voltage, current, and clock signals).
+* **[Arduino-Automation](./Automacao-Arduino)** ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+  * Embedded systems prototyping and sensor integration.
+
+---
+**Status:** Concluído / Completed.
