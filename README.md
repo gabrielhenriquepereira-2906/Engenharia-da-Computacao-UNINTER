@@ -29,7 +29,7 @@ Como acadêmico de Engenharia, meu objetivo é desenvolver soluções inovadoras
     - *Normas técnicas, ética e prática laboratorial:*
     - [x] **Lab 01:** Análise de hardware, software e benchmarking.
     - [x] [**Lab 02**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desafios-Scratch): Lógica e algoritmos via Scratch.
-    - [ ] [**Lab 03**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desenvolvimento-Android): Desenvolvimento Mobile Android (MIT App Inventor).
+    - [x] [**Lab 03**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Desenvolvimento-Android): Desenvolvimento Mobile Android (MIT App Inventor).
     - [x] [**Lab 04**](./Semestre-01/Engenharia-da-Computacao-e-a-Profissao/Sistemas-Eletronicos): Simulação de circuitos e clock (Multisim Live).
     - [ ] **Lab 05:** Sistemas embarcados e automação (Arduino).
 
