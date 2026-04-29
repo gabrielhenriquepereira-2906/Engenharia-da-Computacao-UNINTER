@@ -16,7 +16,7 @@ O objetivo desta prática foi realizar o acionamento de uma saída digital para 
 <div align="center">
   <img src="./blink-led.png" alt="Blink LED Simulation" width="600px">
   <p><b>Figura 1:</b> Simulação do circuito Blink utilizando o Pino Digital 2.</p>
-  <a href="[SEU_LINK_DO_TINKERCAD_AQUI](https://www.tinkercad.com/things/kmfK5OYC6PL-exercise-01-blink-led-exercicio-01-blink-led)">🔗 Clique aqui para acessar a simulação interativa no Tinkercad</a>
+  <a href="https://www.tinkercad.com/things/kmfK5OYC6PL-exercise-01-blink-led-exercicio-01-blink-led">🔗 Clique aqui para acessar a simulação interativa no Tinkercad</a>
 </div>
 ---
 
