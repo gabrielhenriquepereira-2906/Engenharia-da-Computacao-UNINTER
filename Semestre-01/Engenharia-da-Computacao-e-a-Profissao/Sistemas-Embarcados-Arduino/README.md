@@ -1,16 +1,30 @@
-# Automação com Arduino
+# Sistemas Embarcados com Arduino 
 
-Este projeto explora a integração entre software (firmware) e hardware através da plataforma Arduino, focando em controle de periféricos e leitura de dados ambientais.
+Este diretório contém as práticas desenvolvidas com a plataforma Arduino (via Tinkercad), focando na integração entre lógica de programação (firmware) e circuitos eletrônicos.
 
 ## Atividades Realizadas
-1. **Blink Control:** Controle de temporização de um LED.
-2. **Sensor Crepuscular:** Sistema automático que liga o LED conforme a ausência de luz (usando LDR).
+
+### 1. Controle de Temporização (Blink LED)
+O objetivo desta prática foi realizar o acionamento de uma saída digital para alternar o estado de um LED em intervalos de 1 segundo.
+
+**Conceitos Aplicados:**
+* **Saída Digital:** Configuração do Pino 2 como saída.
+* **Resistor Limitador:** Uso de um resistor de 220Ω para proteção do componente.
+* **Lógica de Loop:** Criação de um ciclo infinito de acendimento e apagamento.
+
+**Esquema do Circuito:**
+<div align="center">
+  <img src="./blink-led.png" alt="Blink LED Simulation" width="600px">
+  <p><b>Figura 1:</b> Simulação do circuito Blink utilizando o Pino Digital 2.</p>
+  <a href="[SEU_LINK_DO_TINKERCAD_AQUI](https://www.tinkercad.com/things/kmfK5OYC6PL-exercise-01-blink-led-exercicio-01-blink-led)">🔗 Clique aqui para acessar a simulação interativa no Tinkercad</a>
+</div>
+---
+
+### 2. Sensor Crepuscular (Em Progresso)
+*Descrição: Sistema automático que utiliza um LDR para controlar um LED conforme a luminosidade ambiente.*
 
 ## Componentes Utilizados
-* Arduino (Uno ou Simulação)
-* LED e Resistor (220Ω)
-* Sensor LDR e Resistor (10kΩ)
-* Protoboard e Jumpers
-
-## Lógica de Funcionamento
-O sistema utiliza um divisor de tensão para converter a variação de resistência do LDR em um sinal de tensão legível pelo conversor AD do Arduino.
+* 01 Arduino Uno R3
+* 01 LED Vermelho
+* 01 Resistor de 220Ω (para o LED)
+* 01 Protoboard e Jumpers
