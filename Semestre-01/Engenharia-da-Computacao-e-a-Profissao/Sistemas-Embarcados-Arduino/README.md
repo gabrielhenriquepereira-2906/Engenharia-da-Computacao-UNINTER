@@ -18,6 +18,7 @@ O objetivo desta prática foi realizar o acionamento de uma saída digital para 
   <p><b>Figura 1:</b> Simulação do circuito Blink utilizando o Pino Digital 2.</p>
   <a href="https://www.tinkercad.com/things/kmfK5OYC6PL-exercise-01-blink-led-exercicio-01-blink-led">🔗 Clique aqui para acessar a simulação interativa no Tinkercad</a>
 </div>
+
 ---
 
 ### 2. Sensor Crepuscular (Em Progresso)
