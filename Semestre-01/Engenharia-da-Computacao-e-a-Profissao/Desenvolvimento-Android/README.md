@@ -1,48 +1,52 @@
-# Desenvolvimento Mobile - Android (MIT App Inventor)
+# Desenvolvimento Mobile Android | Android Mobile Development
 
-Repositório dedicado ao estudo de desenvolvimento de software para dispositivos móveis, focando em lógica de programação, interface de usuário (UI) e integração com hardware real.
-
-> **Hardware de Validação:** Redmi Note 14
-
-> **Ambiente:** MIT App Inventor 2
+[Português](#português) | [English](#english)
 
 ---
 
-## Projetos
+<h2 id="português">Versão em Português</h2>
 
-### 01. Hello World
-Primeira implementação focada em entender o ciclo de vida de uma aplicação orientada a eventos.
+**Hardware de Validação:** Redmi Note 14  
+**Ambiente:** MIT App Inventor 2
 
-#### Demonstração
-| Interface Inicial | Lógica (Blocos) | Resultado Final (Hardware) |
+### Projetos e Implementações
+
+#### 01. Hello World
+Implementação inicial focada no ciclo de vida de aplicações orientadas a eventos e manipulação de strings.
+
+| Interface | Lógica (Blocos) | Hardware |
 | :---: | :---: | :---: |
-| <img src="HelloWorld/interface_inicial.png" width="300"> | <img src="HelloWorld/blocks-logic.png" width="500"> | <img src="HelloWorld/resultado_final.png" width="300"> |
+| <img src="HelloWorld/interface_inicial.png" width="200"> | <img src="HelloWorld/blocks-logic.png" width="350"> | <img src="HelloWorld/resultado_final.png" width="200"> |
 
----
+#### 02. Acerte o Alvo (Mini-Game)
+Sistema dinâmico com animação, temporizadores e manipulação de variáveis globais.
 
-### 02. Acerte o Alvo (Mini-Game)
-Desenvolvimento de um sistema dinâmico utilizando conceitos de animação, temporizadores e manipulação de variáveis globais.
+* **Lógica:** Cálculo vetorial para posicionamento randômico em `Canvas`.
+* **Hardware:** Integração de Feedback Háptico (Vibração: 100ms).
+* **Clock:** Game Loop sincronizado em 500ms.
 
-#### Especificações Técnicas
-- **Lógica de Posicionamento:** Cálculo vetorial para manter o `ImageSprite` dentro dos limites do `Canvas` (X e Y aleatórios).
-- **Gerenciamento de Estado:** Implementação de variável global para controle de score e sistema de reset.
-- **Feedback Háptico:** Integração com o hardware para acionamento de vibração (100ms) em eventos de colisão.
-- **Game Loop:** Utilização de componente `Clock` para controle de taxa de atualização (500ms).
-
-#### Demonstração
-| Interface do Jogo | Lógica de Programação | Gameplay no Redmi |
+| Interface | Lógica de Programação | Hardware (Redmi) |
 | :---: | :---: | :---: |
-| <img src="AcerteOAlvo/interface.png" width="400"> | <img src="AcerteOAlvo/logica_eventos.png" width="800"> | <img src="AcerteOAlvo/gameplay.jpg" width="200"> |
+| <img src="AcerteOAlvo/interface.png" width="200"> | <img src="AcerteOAlvo/logica_eventos.png" width="550"> | <img src="AcerteOAlvo/gameplay.jpg" width="150"> |
 
 ---
 
-## Histórico de Aprendizado Técnica
+<h2 id="english">English Version</h2>
 
-### Fundamentos Mobile e Eventos
-- Configuração de ambiente de desenvolvimento e deploy em hardware real via AI2 Companion.
-- Implementação de manipulação de strings e gatilhos de User Interface (UI).
+**Validation Hardware:** Redmi Note 14  
+**Environment:** MIT App Inventor 2
 
-### Lógica de Games e Hardware
-- Desenvolvimento de algoritmos para manipulação de coordenadas em planos cartesianos.
-- Gerenciamento de variáveis globais para persistência de dados em tempo de execução.
-- Integração de componentes não-visuais para feedback físico (Haptic Feedback).
+### Projects & Implementations
+
+#### 01. Hello World
+Initial implementation focused on event-driven application lifecycle and string manipulation.
+
+#### 02. Hit the Target (Mini-Game)
+Dynamic system featuring animation, timers, and global variable management.
+
+* **Logic:** Vector calculation for random positioning on `Canvas`.
+* **Hardware:** Haptic Feedback integration (Vibration: 100ms).
+* **Clock:** Syncronized Game Loop at 500ms.
+
+---
+**Status:** Concluído / Completed.
