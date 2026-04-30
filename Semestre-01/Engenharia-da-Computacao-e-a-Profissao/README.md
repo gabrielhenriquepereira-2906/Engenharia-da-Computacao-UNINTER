@@ -16,7 +16,7 @@ Compilado de atividades práticas focadas em lógica de programação, desenvolv
   * Interface de usuário e implementação de apps práticos.
 * **[Sistemas-Eletronicos](./Sistemas-Eletronicos)** ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
   * Simulação de circuitos no Multisim Live (Tensão, corrente e sinais de clock).
-* **[Automacao-Arduino](./Sistemas-Embarcados-Arduino)** ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+* **[Sistemas-Embarcados-Arduino](./Sistemas-Embarcados-Arduino)** ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
   * Prototipagem de sistemas embarcados e integração de sensores.
 
 ---
@@ -33,7 +33,7 @@ A compilation of practical activities focused on programming logic, mobile devel
   * User interface and practical app implementation.
 * **[Electronic-Systems](./Sistemas-Eletronicos)** ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
   * Circuit simulation using Multisim Live (Voltage, current, and clock signals).
-* **[Arduino-Automation](./Sistemas-Embarcados-Arduino)** ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+* **[Arduino Embedded Systems](./Sistemas-Embarcados-Arduino)** ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
   * Embedded systems prototyping and sensor integration.
 
 ---
