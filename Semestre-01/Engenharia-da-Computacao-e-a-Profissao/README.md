@@ -17,7 +17,7 @@ Compilado de atividades práticas focadas em lógica de programação, desenvolv
 * **[Sistemas-Eletronicos](./Sistemas-Eletronicos)** ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
   * Simulação de circuitos no Multisim Live (Tensão, corrente e sinais de clock).
 * **[Sistemas-Embarcados-Arduino](./Sistemas-Embarcados-Arduino)** ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-  * Prototipagem de sistemas embarcados e integração de sensores.
+  * Prototipagem de sistemas embarcados e automação via sensores.
 
 ---
 
