@@ -34,7 +34,7 @@ A compilation of practical activities focused on programming logic, mobile devel
 * **[Electronic-Systems](./Sistemas-Eletronicos)** ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
   * Circuit simulation using Multisim Live (Voltage, current, and clock signals).
 * **[Arduino Embedded Systems](./Sistemas-Embarcados-Arduino)** ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-  * Embedded systems prototyping and sensor integration.
+  * Embedded systems prototyping and sensor-based automation..
 
 ---
 **Status:** Concluído / Completed.
