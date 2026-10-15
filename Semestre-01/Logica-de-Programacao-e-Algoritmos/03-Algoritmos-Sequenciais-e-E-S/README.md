@@ -1,13 +1,22 @@
-# Algoritmos Sequenciais e Comandos de E/S 
+# Algoritmos Sequenciais e Comandos de E/S
 
-Este módulo foca nos fundamentos da manipulação de dados em Python, cobrindo desde a sintaxe básica até a interação com o usuário.
+Este módulo foca nos fundamentos da manipulação de dados em Python, cobrindo desde a sintaxe básica, operadores aritméticos, até a interação dinâmica com o usuário.
 
-### Status: Em Desenvolvimento (WIP)
-Atualmente estudando a Aula 2 do curso de Engenharia de Computação.
+## Status: Concluído/Atualizado
 
-**Conteúdo atual:**
-- [x] Ciclo de processamento de dados
-- [x] Função de saída (`print`) e concatenação
-- [x] Operadores aritméticos básicos
-- [ ] Variáveis e tipos de dados (Próximo vídeo...)
-- [ ] Entrada de dados (`input`)
+## Conteúdo Prudente e Aplicado:
+
+### 1. O Ciclo de Processamento de Dados e O Primeiro Programa
+Introdução à execução de comandos e exibição de dados no console utilizando a função `print()`:
+* Uso de aspas simples e duplas (`print('Olá, mundo!')`).
+* Diferença crítica entre valores numéricos e literais (`print(2+3)` vs `print('2+3')`).
+* O conceito e o perigo da concatenação de strings (`print('2' + '3')` resulta em `23`).
+* Formas de concatenação de mensagens e variáveis numéricas (`print('O resultado da soma é:', 2+3)`).
+
+### 2. Operadores e Operações Matemáticas
+Aplicação de precedência de operadores matemáticos em Python:
+* Expressões complexas e uso correto de parênteses (`print(10 * (5 + 7) / 4)` vs `print(10 * (5 + 7 / 4))`).
+
+### 3. Variáveis, Tipos de Dados e Entrada (`input`)
+* Armazenamento de dados na memória utilizando variáveis.
+* Captura de dados inseridos via teclado utilizando a função `input()`.
