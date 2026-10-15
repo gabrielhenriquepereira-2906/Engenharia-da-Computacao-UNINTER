@@ -80,14 +80,14 @@ The curriculum is designed to support the following areas:
 
 ---
 
-## Stack Tecnológica / Tech Stack
+## Stack Tecnológica/Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ---
 
-## Contato / Contact
+## Contato/Contact
 * **Bacharelando em Engenharia de Computação** | UNINTER.
 * **Languages:** Português (Nativo), English (Cambridge Certified).
 * **Location:** Indaial, SC - Brasil.
