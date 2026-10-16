@@ -14,7 +14,7 @@ Como acadêmico de Engenharia, meu objetivo é desenvolver soluções inovadoras
 ### Trilha de Aprendizado
 
 #### Semestre 01 (Em curso)
-* [**Lógica de Programação e Algoritmos**](./Semestre-01/Logica-de-Programacao-e-Algoritmos)  ![Status](https://img.shields.io/badge/Status-Em%20Curso-blue)
+* [**Lógica de Programação e Algoritmos**](./Semestre-01/Logica-de-Programacao-e-Algoritmos)  ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
     - *Foco em pensamento computacional e algoritmos estruturados com Python.*
     - **Fundamentos:** Variáveis, tipos de dados e I/O.
     - **Controle de Fluxo:** Estruturas de seleção e repetição (iteração).
@@ -52,7 +52,7 @@ As an Engineering student, I aim to develop innovative and creative solutions fo
 ### Learning Path
 
 #### Semester 01 (In Progress)
-* [**Programming Logic and Algorithms**](./Semestre-01/Logica-de-Programacao-e-Algoritmos) ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+* [**Programming Logic and Algorithms**](./Semestre-01/Logica-de-Programacao-e-Algoritmos) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
     - *Focus on computational thinking and structured algorithms with Python.*
     - **Fundamentals:** Variables, data types, and I/O.
     - **Flow Control:** Selection (decision) and repetition (iteration) structures.
